@@ -1,0 +1,11 @@
+streamlit
+langchain
+langgraph
+langchain-google-genai
+pypdf2
+python-dotenv
+gTTS
+streamlit-mic-recorder
+fpdf
+streamlit-code-editor
+edge-tts
